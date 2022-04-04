@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633973605 source:d:\algoritme codeblock\fisa2_20probs\main.cpp
+	<iostream>
+	<math.h>
+	<cmath>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587502434 source:d:\programe\c++\#2229 pbinfo\main.cpp
+	<iostream>
+	<fstream>
+
